@@ -26,9 +26,9 @@
             android:exported="false"
             android:theme="@style/Theme.MyNDPSongs" />
         <activity
-            android:name=".ListView"
+            android:name=".ListVieww"
             android:exported="false"
-            android:theme="@style/Theme.MyNDPSongs"/>
+            android:theme="@style/Theme.MyNDPSongs" />
     </application>
 
 </manifest>

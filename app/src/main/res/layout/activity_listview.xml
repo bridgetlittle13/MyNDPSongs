@@ -21,6 +21,7 @@
         android:background="#F40A0A"
         android:text="go back"
         android:textColor="#FFFFFF" />
+
     <ListView
         android:id="@+id/lvDisplay"
         android:layout_width="match_parent"
